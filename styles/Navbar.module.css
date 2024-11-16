@@ -1,0 +1,10 @@
+.nv{
+    height: 100px;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    padding-inline: 100px;
+    gap: 80px;
+    width: 100%;
+}
