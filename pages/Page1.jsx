@@ -333,8 +333,8 @@ export default function Page1() {
 
         <div className="flex gap-[20px] pt-[50px]">
 
-          <img src="ap.svg" alt="" />
-          <img src="gg.svg" alt="" />
+          <a href=""><img src="ap.svg" alt="" /></a>
+          <a href=""><img src="gg.svg" alt="" /></a>
 
         </div>
 
