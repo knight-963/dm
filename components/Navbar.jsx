@@ -9,8 +9,8 @@ export default function Navbar() {
 
             <ul className='flex justify-center items-center gap-[40px]'>
                 <Link href="/"><h1 className="text-xl">Home</h1></Link>
-                <Link href="/Page"><h1 className='text-xl'>Brendlar</h1></Link>
-                <Link href=""><h1 className='text-xl'>Tadqiq qiling</h1></Link>
+                <Link href=""><h1 className='text-xl'>Brendlar</h1></Link>
+                <Link href="/P1"><h1 className='text-xl'>Tadqiq qiling</h1></Link>
                 <Link href=""><h1 className='text-xl'>Ko'rgazma zali</h1></Link>
                 <Link href=""><h1 className='text-xl'>Kredit simulyatsiyasi</h1></Link>
                 <Link href=""><h1 className='text-xl'>Biz bilan bog'lanish</h1></Link>

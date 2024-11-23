@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function Footer() {
   return (
-    <div className='flex justify-center pt-[100px]'>
+    <div className='flex justify-center'>
             <footer className={styles.footer}>
       <div className={styles.container}>
         <div className={styles.section}>
