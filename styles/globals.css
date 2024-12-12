@@ -176,3 +176,31 @@
 
 
 
+
+
+.ha{
+  color: rgb(157, 157, 157);
+  font-size: 30px;
+
+}
+.ha:hover{
+  color: red;
+}
+
+
+
+
+.input {
+  background-color: white;
+  width: 400px;
+  height: 50px;
+  padding: 10px;
+  border: 2px solid rgb(125, 125, 125);
+  border-radius: 10px;
+}
+
+.input:focus {
+  color: rgb(255, 0, 0);
+  background-color: white;
+  outline-color: rgb(255, 0, 0);
+}

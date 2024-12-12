@@ -99,9 +99,20 @@ const Page1 =()=>{
 
 
 
-<div className="flex justify-around">
+<div className="flex justify-center gap-[450px] pt-[150px]">
 
-  <div className="flex justify-center gap-[20px]">
+  <div className="flex justify-center gap-[30px]">
+
+    <input placeholder="KAWASAKI" class="input" name="text" type="text"></input>
+    <button className="h-[50px] w-[100px] bg-[red] rounded-[10px] text-white">Topish</button>
+
+  </div>
+
+  <div className="flex justify-center gap-[50px]">
+    
+    <h1 className="ha">ALL (100)</h1>
+    <h1 className="ha">NEW (40)</h1>
+    <h1 className="ha">USED (60)</h1>
 
   </div>
 
@@ -110,6 +121,12 @@ const Page1 =()=>{
 
 
 
+<h1 className="text-5xl p-[50px] pt-[200px]">KAWASAKI</h1>
+
+
+
+
+   <div className="flex "></div>
 
 
 
@@ -135,8 +152,7 @@ const Page1 =()=>{
 
 
 
-
-    <div className="pt-[100px] bg-gray-100 h-[500px]">
+    <div className="pt-[100px] mt-[100px] bg-gray-100 h-[500px]">
 
       <h1 className="text-center text-5xl pt-[50px]">Bizning yangiliklar xatimizga obuna bo'ling</h1>
 
