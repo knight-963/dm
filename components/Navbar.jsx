@@ -16,7 +16,7 @@ export default function Navbar() {
                 <Link href=""><h1 className='text-xl'>Biz bilan bog'lanish</h1></Link>
             </ul>
 
-            <button className="w-[150px] h-[50px] rounded-[10px] text-white bg-[#FA3C45]"><Link href="/About">Ro'yhatdan o'tish</Link></button>
+            <button className="w-[160px] h-[55px] rounded-[10px] text-white bg-[#ff3640]"><Link href="/About">Ro'yhatdan o'tish</Link></button>
 
         </nav>
     );

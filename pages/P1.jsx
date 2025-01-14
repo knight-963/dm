@@ -121,12 +121,141 @@ const Page1 =()=>{
 
 
 
-<h1 className="text-5xl p-[50px] pt-[200px]">KAWASAKI</h1>
+<h1 className="text-5xl p-[50px] pt-[200px] text-red-600">KAWASAKI</h1>
 
 
 
 
-   <div className="flex "></div>
+   <div className="flex justify-start pl-[50px] pt-[100px]">
+    <div>
+
+
+
+     <div className="flex justify-center gap-[50px] items-center">
+
+
+    <div class="card-c">
+    <div class="ca">
+    <img src="kwk.png" className="ba" alt="" />
+    <div class="fr">
+      <h1 className="text-red-600 text-5xl" >$14,999</h1>
+    </div>
+    </div>
+    </div>
+
+
+    <div>
+
+      <div className="flex gap-[50px] text-3xl">
+        <h1>Kawasaki NINJA® 1100SX</h1>
+        <h1>(NEW)</h1>
+      </div>
+
+      <div className="flex gap-[50px] pt-[50px]">
+
+        <div>
+          <h1 className="text-gray-400 text-2xl">Двигатель</h1>
+          <h1 className="text-red-600 pt-[20px] text-xl">Рядный 136 л.с</h1>
+        </div>
+
+        <div>
+          <h1 className="text-gray-400 text-2xl">Система запуска</h1>
+          <h1 className="text-red-600 pt-[20px] text-xl">Электрический</h1>
+        </div>
+
+        <div>
+          <h1 className="text-gray-400 text-2xl">Передача инфекции</h1>
+          <h1 className="text-red-600 pt-[20px] text-xl">6-ступенчатая</h1>
+        </div>
+
+      </div>
+
+      <div className="pt-[60px]"><button className="w-[180px] h-[65px] bg-[#ff0000] rounded-[10px] text-white">Подробности</button></div>
+
+    </div>
+
+
+     </div>
+
+     
+
+
+
+    </div>
+
+    
+   </div>
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+   <div className="flex justify-start pl-[50px] pt-[100px]">
+    <div>
+
+
+
+     <div className="flex justify-center gap-[50px] items-center">
+
+
+    <div class="card-c">
+    <div class="ca">
+    <img src="ducati.png" className="ba" alt="" />
+    <div class="fr">
+      <h1 className="text-red-600 text-5xl" >$24,500 - $40,000</h1>
+    </div>
+    </div>
+    </div>
+
+
+    <div>
+
+      <div className="flex gap-[50px] text-3xl">
+        <h1>Ducati Panigale V4</h1>
+        <h1>(NEW)</h1>
+      </div>
+
+      <div className="flex gap-[50px] pt-[50px]">
+
+        <div>
+          <h1 className="text-gray-400 text-2xl">Двигатель</h1>
+          <h1 className="text-red-600 pt-[20px] text-xl">214 л.с</h1>
+        </div>
+
+        <div>
+          <h1 className="text-gray-400 text-2xl">Система запуска</h1>
+          <h1 className="text-red-600 pt-[20px] text-xl">Электрический</h1>
+        </div>
+
+        <div>
+          <h1 className="text-gray-400 text-2xl">Передача инфекции</h1>
+          <h1 className="text-red-600 pt-[20px] text-xl">6-ступенчатая</h1>
+        </div>
+
+      </div>
+
+      <div className="pt-[60px]"><button className="w-[180px] h-[65px] bg-[#ff0000] rounded-[10px] text-white">Подробности</button></div>
+
+    </div>
+
+
+     </div>
+
+     
+
+
+
+    </div>
+    </div>
 
 
 
@@ -140,6 +269,86 @@ const Page1 =()=>{
 
 
 
+
+
+
+
+
+
+
+
+    <div className="flex justify-start pl-[50px] pt-[100px]">
+    <div>
+
+
+
+     <div className="flex justify-center gap-[50px] items-center">
+
+
+    <div class="card-c">
+    <div class="ca">
+    <img src="mgm.png" className="ba" alt="" />
+    <div class="fr">
+      <h1 className="text-red-600 text-5xl" >$56,500</h1>
+    </div>
+    </div>
+    </div>
+
+
+    <div>
+
+      <div className="flex gap-[50px] text-3xl">
+        <h1>Kawasaki Ninja H2R</h1>
+        <h1>(NEW)</h1>
+      </div>
+
+      <div className="flex gap-[50px] pt-[50px]">
+
+        <div>
+          <h1 className="text-gray-400 text-2xl">Двигатель</h1>
+          <h1 className="text-red-600 pt-[20px] text-xl">310 л.с</h1>
+        </div>
+
+        <div>
+          <h1 className="text-gray-400 text-2xl">Система запуска</h1>
+          <h1 className="text-red-600 pt-[20px] text-xl">Электрический</h1>
+        </div>
+
+        <div>
+          <h1 className="text-gray-400 text-2xl">Tип коробки передачи</h1>
+          <h1 className="text-red-600 pt-[20px] text-xl">Mеханическая</h1>
+        </div>
+
+      </div>
+
+      <div className="pt-[60px]"><button className="w-[180px] h-[65px] bg-[#ff0000] rounded-[10px] text-white">Подробности</button></div>
+
+    </div>
+
+
+     </div>
+
+     
+
+
+
+    </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
 
 
