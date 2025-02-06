@@ -34,7 +34,7 @@ export default function Footer() {
           <h4 className='pt-[20px]'>Social</h4><br />
           <ul>
             <li><a href="https://facebook.com">Facebook</a></li><br />
-            <li><a href="https://www.instagram.com/_sma__13/">Instagram</a></li><br />
+            <li><a href="https://www.instagram.com/_sma__369/">Instagram</a></li><br />
             <li><a href="https://www.youtube.com/channel/UCqRpiK37mbohuu-LhV4Biaw">YouTube</a></li><br />
             <li><a href="https://twitter.com">Twitter</a></li><br />
             <li><a href="https://www.linkedin.com/in/muhammadamirxon-sobirxonov-070483333/">LinkedIn</a></li>

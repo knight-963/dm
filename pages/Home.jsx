@@ -69,7 +69,7 @@ export default function Page1() {
                     <div className="min-h-screen p-[100px] pt-[200px] bg-gray-300 mt-[100px] font-sans">
 
 <section className="mb-8 flex justify-between items-center">
-  <h1 className="text-4xl pl-[50px] font-bold text-gray-800">Our Collection</h1>
+  <h1 className="text-4xl pl-[50px] font-bold text-red-600">Our Collection</h1>
   <div className='flex justify-center pr-[50px] gap-[20px]'>
       <img src="chap.svg" className='h-[40px]' alt="" />
       <img src="ong.svg" className='h-[40px]' alt="" />
@@ -215,7 +215,7 @@ export default function Page1() {
 
     <div className="h-[2300px] bg-[#d7d7d7] p-[150px] pt-[300px] mt-[100px]">
 
-      <h1 className="text-5xl">New Items</h1>
+      <h1 className="text-5xl text-red-600">New Items</h1>
 
       <div className="flex justify-center gap-[20px] pt-[100px]">
 
@@ -280,7 +280,7 @@ export default function Page1() {
 
       <div className="pt-[300px]">
 
-<h1 className="text-center text-5xl">Odamlar Biz haqimizda nima deyishadi</h1>
+<h1 className="text-center text-5xl text-red-600">Odamlar Biz haqimizda nima deyishadi</h1>
 <h1 className="text-center text-3xl text-gray-500 pt-[50px]">MK.com</h1>
 
 <div className="flex justify-center mt-[50px] border-[5px] border-red-500 rounded-[10px]">

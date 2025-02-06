@@ -241,8 +241,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 20px;
-  background: #e0e0e0;
+  border-radius: 18px;
+  background: #f0f0f0;
   width: 500px;
   height: 300px;
   overflow: hidden;
@@ -251,3 +251,6 @@
   -webkit-backface-visibility: hidden;
 }
 
+.lg{
+  filter: drop-shadow(0px 0px 2px #ffffff);
+}

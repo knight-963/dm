@@ -4,7 +4,9 @@
     display: flex;
     align-items: center;
     padding-top: 20px;
-    padding-inline: 100px;
-    gap: 80px;
+    padding-inline: 50px;
+    gap: 160px;
     width: 100%;
+    position: relative;
+    z-index: 1;
 }
